@@ -1,0 +1,12 @@
+#OncoKB python
+
+#At first, you need to install 'requests module of python'.
+#sudo pip install requests
+#OncoKB data from OncoKB
+#http://oncokb.org/#/dataAccess
+
+#Input : Actionable Alterations(OncoKB)
+#Output : Parsed table
+#Execute : python OncoKB.py
+
+#by BioinformaticsAndMe
